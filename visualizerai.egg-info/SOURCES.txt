@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+plotterai/__init__.py
+plotterai/core.py
+plotterai/llm.py
+plotterai/llm_plot.py
+plotterai/utils.py
+plotterai.egg-info/PKG-INFO
+plotterai.egg-info/SOURCES.txt
+plotterai.egg-info/dependency_links.txt
+plotterai.egg-info/top_level.txt
